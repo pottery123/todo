@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  completed: false
+  detail: MyText
+  deadline: 2017-08-12 13:52:53
+
+two:
+  name: MyString
+  completed: false
+  detail: MyText
+  deadline: 2017-08-12 13:52:53
