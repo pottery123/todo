@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.pass_due_date{
+  background-color: red;
+}
