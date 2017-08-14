@@ -8,7 +8,7 @@
 
 * Domain and Interface:  Task-List, Web UI(server generated)
 
-* The deployed app, Todo, can be found here: https://git.heroku.com/murmuring-river-52976.git
+* The deployed app, Todo, can be found here: https://murmuring-river-52976.herokuapp.com/
 
 
 
