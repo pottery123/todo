@@ -10,6 +10,8 @@
 
 * The deployed app, Todo, can be found here: https://murmuring-river-52976.herokuapp.com/
 
+To run tests download this repo using the green button. cd Into the todo directory that was just downloaded. cd Into tests and run the command rails test.
+
 
 
 
