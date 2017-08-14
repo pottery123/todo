@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.3.0p0 
 
-* System dependencies
+* Rails verson: 5.1.3
 
-* Configuration
+* Domain and Interface:  Task-List, Web UI(server generated)
 
-* Database creation
+* The deployed app, Todo, can be found here: https://git.heroku.com/murmuring-river-52976.git
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
