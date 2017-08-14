@@ -10,9 +10,30 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
+
  */
+@import "bootstrap";
+
 .pass_due_date{
-  background-color: red;
+  background-color: #90EE90;
+}
+
+.page-header{
+  background-color:gray;
+  height: 100px;
+
+}
+
+.task-container{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+
+}
+
+.jumbotron{
+
 }

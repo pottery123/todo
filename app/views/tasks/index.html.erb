@@ -1,8 +1,13 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Tasks</h1>
 
-<table>
+<div class="jumbotron">
+  <h1 class="task-container">Tasks</h1>
+</div>
+
+
+
+<table class="table">
   <thead>
     <tr>
       <th>Name</th>
@@ -19,7 +24,7 @@
         <td><%= task.name %></td>
         <td><%= task.completed %></td>
         <td><%= task.detail %></td>
-        <% if task.completed == false && task.deadline > Date.today %>
+        <%if task.completed == false && task.deadline > Date.today %>
         <td class='pass_due_date'> <%= task.deadline %></td>
         <%else%>
         <td><%= task.deadline %></td>
@@ -33,5 +38,6 @@
 </table>
 
 <br>
+
 
 <%= link_to 'New Task', new_task_path %>
